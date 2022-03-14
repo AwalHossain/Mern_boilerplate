@@ -1,0 +1,50 @@
+[
+    {
+        "resourceName": "/products",
+        "roleName": "user",
+        "isAllowed": true,
+        "isDisabled": false
+    },
+    {
+        "resourceName": "/users",
+        "roleName": "superadmin",
+        "isAllowed": true,
+        "isDisabled": false
+    },
+    {
+        "resourceName": "/roles",
+        "roleName": "superadmin",
+        "isAllowed": true,
+        "isDisabled": false
+    },
+    {
+        "resourceName": "/resources",
+        "roleName": "superadmin",
+        "isAllowed": true,
+        "isDisabled": false
+    },
+    {
+        "resourceName": "/permissions",
+        "roleName": "superadmin",
+        "isAllowed": true,
+        "isDisabled": false
+    },
+    {
+        "resourceName": "/users",
+        "roleName": "admin",
+        "isAllowed": true,
+        "isDisabled": false
+    },
+    {
+        "resourceName": "user-list-delete-btn",
+        "roleName": "admin",
+        "isAllowed": true,
+        "isDisabled": true
+    },
+    {
+        "resourceName": "user-list-delete-btn",
+        "roleName": "superadmin",
+        "isAllowed": true,
+        "isDisabled": false
+    }
+]
